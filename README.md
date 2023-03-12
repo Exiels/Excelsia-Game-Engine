@@ -8,6 +8,12 @@ Excelsia Game Engine is a GameEngine written in C++ based on the C raylib librar
 
 [Gitbook](https://exiels.gitbook.io/excelsia-game-engine/)
 
+### Doxygen
+
+To generate Doxygen documentation
+```bash
+  doxygen Doxyfile
+```
 
 ## Deployment
 
