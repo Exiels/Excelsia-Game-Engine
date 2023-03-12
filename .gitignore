@@ -1,3 +1,7 @@
+cmake-build-debug-visual-studio
+obj
+.vscode
+save_*
 # Prerequisites
 *.d
 
@@ -30,3 +34,10 @@
 *.exe
 *.out
 *.app
+
+build/
+docs/
+deps/vcpkg/
+.idea
+
+*.cfg
