@@ -1,0 +1,9 @@
+{
+    "name": "excelsia-game-engine",
+    "version-string": "1.0.0",
+    "dependencies": [
+      "raylib",
+      "boost-asio",
+      "boost-thread"
+    ]
+}
