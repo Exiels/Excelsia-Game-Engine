@@ -46,7 +46,6 @@ Please adhere to this project's `code of conduct`.
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![cpp-linter](https://github.com/cpp-linter/cpp-linter-action/actions/workflows/cpp-linter.yml/badge.svg)](https://github.com/cpp-linter/cpp-linter-action/actions/workflows/cpp-linter.yml)
 ![Vcpkg](https://img.shields.io/vcpkg/v/boost-asio)
 ## License
 
