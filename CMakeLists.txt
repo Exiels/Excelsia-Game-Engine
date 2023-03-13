@@ -6,7 +6,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(THREADS_PREFER_PTHREAD_FLAG TRUE)
 
 #Definitions
-set(CMAKE_PROJECT_NAME rtype)
+set(CMAKE_PROJECT_NAME Excelsia-Game-Engine)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/build")
 set(CMAKE_BUILD_TYPE RELEASE)
 
@@ -37,7 +37,7 @@ set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
 #Include packages
 find_package(raylib REQUIRED)
 set(Boost_USE_STATIC_LIBS ON)
-find_package(Boost REQUIRED COMPONENTS system unit_test_framework thread)
+find_package(Boost REQUIRED COMPONENTS system thread)
 
 #Add src
 add_subdirectory(src)
