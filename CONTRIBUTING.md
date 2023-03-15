@@ -28,7 +28,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Excelsia Game Engine Code of Conduct](https://github.com/Exiels/Excelsia-Game-Engineblob/master/CODE_OF_CONDUCT.md).
+[Excelsia Game Engine Code of Conduct](https://github.com/Exiels/Excelsia-Game-Engine/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 
 
@@ -59,7 +59,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://exiels.gitbook.io/excelsia-game-engine/). If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/Exiels/Excelsia-Game-Engineissues?q=label%3Abug).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/Exiels/Excelsia-Game-Engine/issues?q=label%3Abug).
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
   - Stack trace (Traceback)
@@ -113,7 +113,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Exiels
 
 ### Your First Code Contribution
 Please look at the [Build Instructions](https://exiels.gitbook.io/excelsia-game-engine/deployment/build-instruction) in order to set up the project on your side.
-Then, you might be able to improve the project by testing your feature and submitting an [Issue](https://github.com/Exiels/Excelsia-Game-Engine/issues) and a [Pull Request](https://github.com/aureliancnx/R-Type/pulls).
+Then, you might be able to improve the project by testing your feature and submitting an [Issue](https://github.com/Exiels/Excelsia-Game-Engine/issues) and a [Pull Request](https://github.com/Exiels/Excelsia-Game-Engine/pulls).
 
 
 ### Improving The Documentation
